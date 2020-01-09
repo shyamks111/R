@@ -1,0 +1,18 @@
+Package: qfifo
+Title: Queue Operations(FIFO)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Shyam",
+           family = "Sodankoor",
+           role = c("aut", "cre"),
+           email = "shyamks111@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Creates a package named qfifo and provides different functions 
+             to perform operations on a queue like creating a queue object, 
+             adding new elements, removing elements and getting the top value.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.1
+Suggests: 
+    testthat
