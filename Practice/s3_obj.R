@@ -1,3 +1,5 @@
+# Working with S3 objects
+
 # Creating a new function rep_lm which takes the required inputs and gives an output which is of the class "rep_lm" which inherits from the "lm" class
 rep_lm <- function(model_name, equation, df){
   # Using the lm function to get the linear model
