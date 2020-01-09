@@ -1,3 +1,4 @@
+# Understanding matrices
 
 set.seed(100)
 
