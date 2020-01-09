@@ -1,3 +1,5 @@
+# Lists in R
+
 # Linear Model as a list
 mod<-lm(eruptions ~ waiting, data=faithful)
 
